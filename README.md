@@ -1,4 +1,4 @@
 # hello-world
-My first repository on GitHub
+My 1st repository on GitHub!
 
 I love my Tesla! Tesla really rocks!!!
